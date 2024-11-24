@@ -19,12 +19,12 @@ Follow these steps to run this project locally:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/SharookMohamed/react-shopping-cart.git
+    git clone https://github.com/SharookMohamed/shopping-cart-react.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd react-shopping-cart
+    cd shopping-cart-react
     ```
 
 3. Install dependencies:
